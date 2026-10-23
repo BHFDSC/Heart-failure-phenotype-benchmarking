@@ -1,0 +1,6 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name
+10633002,Acute congestive heart failure (disorder),SNOMED  CT codes,C769,2677,Heart failure - Secondary care,PH25,50,Heart failure
+418304008,Diastolic heart failure (disorder),SNOMED  CT codes,C769,2677,Heart failure - Secondary care,PH25,50,Heart failure
+42343007,Congestive heart failure (disorder),SNOMED  CT codes,C769,2677,Heart failure - Secondary care,PH25,50,Heart failure
+426263006,Congestive heart failure due to left ventricular systolic dysfunction (disorder),SNOMED  CT codes,C769,2677,Heart failure - Secondary care,PH25,50,Heart failure
+48447003,Chronic heart failure (disorder),SNOMED  CT codes,C769,2677,Heart failure - Secondary care,PH25,50,Heart failure

@@ -1,0 +1,322 @@
+code,term,terminology,phenotype_name
+10091002,High output heart failure,SNOMED,Multimorbidity_heart failure
+1010444007,Legal abortion complicated by cardiac failure,SNOMED,Multimorbidity_heart failure
+1010447000,Illegal abortion complicated by cardiac failure,SNOMED,Multimorbidity_heart failure
+101281000119107,Congestive heart failure due to cardiomyopathy,SNOMED,Multimorbidity_heart failure
+10335000,Chronic right-sided heart failure,SNOMED,Multimorbidity_heart failure
+10519008,Acute pulmonary edema caused by fumes AND/OR vapors,SNOMED,Multimorbidity_heart failure
+10633002,Acute congestive heart failure,SNOMED,Multimorbidity_heart failure
+1064941000000106,Heart failure with reduced ejection fraction,SNOMED,Multimorbidity_heart failure
+10674871000119105,Pulmonary edema caused by chemical fumes,SNOMED,Multimorbidity_heart failure
+11016261000119104,Nutritional therapy for congestive heart failure done,SNOMED,Multimorbidity_heart failure
+111282000,Acute respiratory insufficiency,SNOMED,Multimorbidity_heart failure
+111283005,Chronic left-sided heart failure,SNOMED,Multimorbidity_heart failure
+11468004,Postoperative pulmonary edema,SNOMED,Multimorbidity_heart failure
+120639003,Hantavirus pulmonary syndrome,SNOMED,Multimorbidity_heart failure
+120851000119104,Systolic heart failure stage D,SNOMED,Multimorbidity_heart failure
+120861000119102,Systolic heart failure stage C,SNOMED,Multimorbidity_heart failure
+120871000119108,Systolic heart failure stage B,SNOMED,Multimorbidity_heart failure
+120881000119106,Diastolic heart failure stage D,SNOMED,Multimorbidity_heart failure
+120891000119109,Diastolic heart failure stage C,SNOMED,Multimorbidity_heart failure
+120901000119108,Diastolic heart failure stage B,SNOMED,Multimorbidity_heart failure
+12095001,Legal abortion with cardiac arrest AND/OR failure,SNOMED,Multimorbidity_heart failure
+123620007,Hantanvirus pulmonary syndrome,SNOMED,Multimorbidity_heart failure
+128404006,Right heart failure,SNOMED,Multimorbidity_heart failure
+134378009,Congestive heart failure monitoring,SNOMED,Multimorbidity_heart failure
+134440006,Referral to heart failure clinic,SNOMED,Multimorbidity_heart failure
+13839000,Bernheim's syndrome,SNOMED,Multimorbidity_heart failure
+151157005,Cardiac failure therapy,SNOMED,Multimorbidity_heart failure
+153931000119109,Acute combined systolic and diastolic heart failure,SNOMED,Multimorbidity_heart failure
+153941000119100,Chronic combined systolic and diastolic heart failure,SNOMED,Multimorbidity_heart failure
+153951000119103,Acute on chronic combined systolic and diastolic heart failure,SNOMED,Multimorbidity_heart failure
+15629541000119106,Congestive heart failure stage C due to ischemic cardiomyopathy,SNOMED,Multimorbidity_heart failure
+15629591000119103,Congestive heart failure stage B due to ischemic cardiomyopathy,SNOMED,Multimorbidity_heart failure
+15629641000119107,Systolic heart failure stage B due to ischemic cardiomyopathy,SNOMED,Multimorbidity_heart failure
+15629741000119102,Systolic heart failure stage C due to ischemic cardiomyopathy,SNOMED,Multimorbidity_heart failure
+15781000119107,Hypertensive heart AND chronic kidney disease with congestive heart failure,SNOMED,Multimorbidity_heart failure
+15964661000119102,Acute cor pulmonale due to septic pulmonary embolism,SNOMED,Multimorbidity_heart failure
+15964701000119109,Acute cor pulmonale co-occurrent and due to saddle embolus of pulmonary artery,SNOMED,Multimorbidity_heart failure
+161505003,History of heart failure,SNOMED,Multimorbidity_heart failure
+16838951000119100,Acute on chronic right-sided congestive heart failure,SNOMED,Multimorbidity_heart failure
+175112006,Transluminal heart assist operations,SNOMED,Multimorbidity_heart failure
+175115008,Transluminal maintenance of heart assist system,SNOMED,Multimorbidity_heart failure
+175117000,Transluminal removal of heart assist system,SNOMED,Multimorbidity_heart failure
+182826002,Cardiac failure therapy,SNOMED,Multimorbidity_heart failure
+188151000000107,Admit heart failure emergency,SNOMED,Multimorbidity_heart failure
+188171000000103,Referral to heart failure nurse,SNOMED,Multimorbidity_heart failure
+188661000000101,Seen in heart failure clinic,SNOMED,Multimorbidity_heart failure
+191651000000108,Admit heart failure emergency,SNOMED,Multimorbidity_heart failure
+191671000000104,Referral to heart failure nurse,SNOMED,Multimorbidity_heart failure
+192161000000108,Seen in heart failure clinic,SNOMED,Multimorbidity_heart failure
+19242006,Pulmonary edema,SNOMED,Multimorbidity_heart failure
+194767001,Benign hypertensive heart disease with congestive cardiac failure,SNOMED,Multimorbidity_heart failure
+194779001,Hypertensive heart and renal disease with (congestive) heart failure,SNOMED,Multimorbidity_heart failure
+194781004,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,SNOMED,Multimorbidity_heart failure
+194884000,Acute pulmonary heart disease NOS,SNOMED,Multimorbidity_heart failure
+194887007,Other chronic pulmonary heart disease,SNOMED,Multimorbidity_heart failure
+194889005,Other chronic pulmonary heart disease NOS,SNOMED,Multimorbidity_heart failure
+195111005,Decompensated cardiac failure,SNOMED,Multimorbidity_heart failure
+195112003,Compensated cardiac failure,SNOMED,Multimorbidity_heart failure
+195114002,Acute left ventricular failure,SNOMED,Multimorbidity_heart failure
+195548008,[X]Pulmonary heart disease and diseases of pulmonary circulation,SNOMED,Multimorbidity_heart failure
+196151000,Pulmonary insufficiency following shock,SNOMED,Multimorbidity_heart failure
+196152007,Pulmonary insufficiency following surgery,SNOMED,Multimorbidity_heart failure
+196153002,Pulmonary insufficiency following trauma,SNOMED,Multimorbidity_heart failure
+198868006,Cardiac failure following abortive pregnancy,SNOMED,Multimorbidity_heart failure
+202131000000103,Heart failure information given to patient,SNOMED,Multimorbidity_heart failure
+202141000000107,Referral to heart failure exercise programme,SNOMED,Multimorbidity_heart failure
+202231000000106,Heart failure review completed,SNOMED,Multimorbidity_heart failure
+202251000000104,Heart failure care plan discussed with patient,SNOMED,Multimorbidity_heart failure
+203791000000106,Referred to heart failure education group,SNOMED,Multimorbidity_heart failure
+20606002,Acute bovine pulmonary emphysema AND edema,SNOMED,Multimorbidity_heart failure
+206586007,Congenital cardiac failure,SNOMED,Multimorbidity_heart failure
+207553000,[D]Cardiorespiratory failure,SNOMED,Multimorbidity_heart failure
+207891000000108,Heart failure information given to patient,SNOMED,Multimorbidity_heart failure
+207901000000109,Heart failure information given to patient,SNOMED,Multimorbidity_heart failure
+207911000000106,Referral to heart failure exercise programme,SNOMED,Multimorbidity_heart failure
+207921000000100,Referral to heart failure exercise programme,SNOMED,Multimorbidity_heart failure
+208051000000107,Heart failure review completed,SNOMED,Multimorbidity_heart failure
+208061000000105,Heart failure review completed,SNOMED,Multimorbidity_heart failure
+208091000000104,Heart failure care plan discussed with patient,SNOMED,Multimorbidity_heart failure
+208101000000107,Heart failure care plan discussed with patient,SNOMED,Multimorbidity_heart failure
+211441000000105,Referred to heart failure education group,SNOMED,Multimorbidity_heart failure
+211451000000108,Referred to heart failure education group,SNOMED,Multimorbidity_heart failure
+229491000000106,Open implantation of ventricular assist device,SNOMED,Multimorbidity_heart failure
+229511000000103,Open heart assist operations,SNOMED,Multimorbidity_heart failure
+232957001,Cardiac support procedure,SNOMED,Multimorbidity_heart failure
+232961007,Intraventricular pump support operation,SNOMED,Multimorbidity_heart failure
+232962000,Transluminal insertion of intraventricular pump,SNOMED,Multimorbidity_heart failure
+232963005,Transluminal maintenance of intraventricular pump,SNOMED,Multimorbidity_heart failure
+232965003,Implantation of cardiac ventricular assist device,SNOMED,Multimorbidity_heart failure
+232966002,Implantation of right cardiac ventricular assist device,SNOMED,Multimorbidity_heart failure
+232967006,Implantation of left cardiac ventricular assist device,SNOMED,Multimorbidity_heart failure
+232968001,Implantation of cardiac biventricular assist device,SNOMED,Multimorbidity_heart failure
+232969009,Cardiac support using extracorporeal membrane oxygenation circuitry,SNOMED,Multimorbidity_heart failure
+23341000119109,Congestive heart failure with right heart failure,SNOMED,Multimorbidity_heart failure
+233705000,Neurogenic pulmonary edema,SNOMED,Multimorbidity_heart failure
+233706004,Drug-induced acute pulmonary edema,SNOMED,Multimorbidity_heart failure
+233707008,High altitude pulmonary edema,SNOMED,Multimorbidity_heart failure
+233708003,Post-upper airway obstruction pulmonary edema,SNOMED,Multimorbidity_heart failure
+233709006,Toxic pulmonary edema,SNOMED,Multimorbidity_heart failure
+233710001,Chemical-induced pulmonary edema,SNOMED,Multimorbidity_heart failure
+233711002,Oxygen-induced pulmonary edema,SNOMED,Multimorbidity_heart failure
+233712009,Fluid overload pulmonary edema,SNOMED,Multimorbidity_heart failure
+233924009,Heart failure as a complication of care,SNOMED,Multimorbidity_heart failure
+235581000000105,Open heart assist operations NOS,SNOMED,Multimorbidity_heart failure
+238401000000107,Other specified open heart assist operations,SNOMED,Multimorbidity_heart failure
+240629003,Malarial shock lung,SNOMED,Multimorbidity_heart failure
+241974001,Altitude edema,SNOMED,Multimorbidity_heart failure
+247361000000100,Heart failure 6 month review,SNOMED,Multimorbidity_heart failure
+248381000000108,Heart failure monitoring telephone invitation,SNOMED,Multimorbidity_heart failure
+248501000000107,Heart failure monitoring verbal invitation,SNOMED,Multimorbidity_heart failure
+248511000000109,Heart failure monitoring first letter,SNOMED,Multimorbidity_heart failure
+248521000000103,Heart failure monitoring second letter,SNOMED,Multimorbidity_heart failure
+248531000000101,Heart failure monitoring third letter,SNOMED,Multimorbidity_heart failure
+250411000000105,Heart failure 6 month review ,SNOMED,Multimorbidity_heart failure
+251651000000102,Heart failure monitoring telephone invite ,SNOMED,Multimorbidity_heart failure
+251661000000104,Heart failure monitoring verbal invite ,SNOMED,Multimorbidity_heart failure
+251671000000106,Heart failure monitoring first letter ,SNOMED,Multimorbidity_heart failure
+251681000000108,Heart failure monitoring second letter ,SNOMED,Multimorbidity_heart failure
+251691000000105,Heart failure monitoring third letter ,SNOMED,Multimorbidity_heart failure
+253041000000107,Heart failure 6 month review ,SNOMED,Multimorbidity_heart failure
+25544003,Low output heart failure,SNOMED,Multimorbidity_heart failure
+259981000000101,Open heart assist operations ,SNOMED,Multimorbidity_heart failure
+259991000000104,Open implantation of ventricular assist device ,SNOMED,Multimorbidity_heart failure
+260021000000104,Open heart assist operations NOS ,SNOMED,Multimorbidity_heart failure
+266233000,Chronic pulmonary heart disease NOS,SNOMED,Multimorbidity_heart failure
+274096000,Pulmonary heart disease,SNOMED,Multimorbidity_heart failure
+274631000000105,Heart failure monitoring telephone invite ,SNOMED,Multimorbidity_heart failure
+274641000000101,Heart failure monitoring verbal invite ,SNOMED,Multimorbidity_heart failure
+274651000000103,Heart failure monitoring first letter ,SNOMED,Multimorbidity_heart failure
+274661000000100,Heart failure monitoring second letter ,SNOMED,Multimorbidity_heart failure
+274671000000107,Heart failure monitoring third letter ,SNOMED,Multimorbidity_heart failure
+275514001,Impaired left ventricular function,SNOMED,Multimorbidity_heart failure
+276514007,Neonatal cardiac failure,SNOMED,Multimorbidity_heart failure
+276637009,Hemorrhagic pulmonary edema,SNOMED,Multimorbidity_heart failure
+277638005,Sepsis-associated left ventricular failure,SNOMED,Multimorbidity_heart failure
+277639002,Sepsis-associated right ventricular failure,SNOMED,Multimorbidity_heart failure
+286952009,Pulmonary heart disease NOS,SNOMED,Multimorbidity_heart failure
+286953004,Other pulmonary heart disease,SNOMED,Multimorbidity_heart failure
+308118002,Cardiac failure therapy,SNOMED,Multimorbidity_heart failure
+309634009,History of heart failure in last year,SNOMED,Multimorbidity_heart failure
+314206003,Refractory heart failure,SNOMED,Multimorbidity_heart failure
+325431000000103,Congestive heart failure due to valvular disease,SNOMED,Multimorbidity_heart failure
+33622007,Round heart disease,SNOMED,Multimorbidity_heart failure
+33644002,Postvalvulotomy syndrome,SNOMED,Multimorbidity_heart failure
+338101000000107,Congestive heart failure due to valvular disease,SNOMED,Multimorbidity_heart failure
+359617009,Acute right-sided heart failure,SNOMED,Multimorbidity_heart failure
+359620001,Acute right heart failure,SNOMED,Multimorbidity_heart failure
+360371003,Acute cardiac pulmonary edema,SNOMED,Multimorbidity_heart failure
+364006,Acute left-sided heart failure,SNOMED,Multimorbidity_heart failure
+366784002,Congestive heart failure monitoring,SNOMED,Multimorbidity_heart failure
+366862009,Congestive heart failure monitoring,SNOMED,Multimorbidity_heart failure
+367363000,Right ventricular failure,SNOMED,Multimorbidity_heart failure
+36890002,Temporary cardioassist with artificial heart,SNOMED,Multimorbidity_heart failure
+371862006,Depression of left ventricular systolic function,SNOMED,Multimorbidity_heart failure
+389838008,Heart failure annual review,SNOMED,Multimorbidity_heart failure
+389937002,Heart failure follow-up,SNOMED,Multimorbidity_heart failure
+39028003,Implantation of heart auxiliary ventricle,SNOMED,Multimorbidity_heart failure
+390570006,Heart failure annual review,SNOMED,Multimorbidity_heart failure
+390671000,Heart failure follow-up,SNOMED,Multimorbidity_heart failure
+390771000000106,[X]Pulmonary heart disease and diseases of pulmonary circulation,SNOMED,Multimorbidity_heart failure
+390884006,Heart failure follow-up,SNOMED,Multimorbidity_heart failure
+390885007,Heart failure annual review,SNOMED,Multimorbidity_heart failure
+392748002,Heart failure confirmed,SNOMED,Multimorbidity_heart failure
+393703008,Heart failure confirmed,SNOMED,Multimorbidity_heart failure
+395105005,Heart failure confirmed,SNOMED,Multimorbidity_heart failure
+403298007,Red half-moon nail in congestive heart failure,SNOMED,Multimorbidity_heart failure
+405276000,Negative pressure pulmonary edema,SNOMED,Multimorbidity_heart failure
+40541001,Acute pulmonary edema,SNOMED,Multimorbidity_heart failure
+407606009,New York Heart Association classification - class II,SNOMED,Multimorbidity_heart failure
+407607000,New York Heart Association classification - class III,SNOMED,Multimorbidity_heart failure
+407608005,New York Heart Association classification - class IV,SNOMED,Multimorbidity_heart failure
+410431009,Cardiorespiratory failure,SNOMED,Multimorbidity_heart failure
+416683003,Emergency hospital admission for heart failure,SNOMED,Multimorbidity_heart failure
+416717003,Seen in heart failure clinic,SNOMED,Multimorbidity_heart failure
+417146007,Referral to heart failure nurse,SNOMED,Multimorbidity_heart failure
+417996009,Systolic heart failure,SNOMED,Multimorbidity_heart failure
+418304008,Diastolic heart failure,SNOMED,Multimorbidity_heart failure
+419038004,Enhanced external counterpulsation,SNOMED,Multimorbidity_heart failure
+420913000,New York Heart Association Classification - Class III,SNOMED,Multimorbidity_heart failure
+421518007,New York Heart Classification finding,SNOMED,Multimorbidity_heart failure
+421704003,New York Heart Association Classification - Class II,SNOMED,Multimorbidity_heart failure
+422293003,New York Heart Association Classification - Class IV,SNOMED,Multimorbidity_heart failure
+42343007,Congestive heart failure,SNOMED,Multimorbidity_heart failure
+424404003,Decompensated chronic heart failure,SNOMED,Multimorbidity_heart failure
+425991000000100,[X]Other specified pulmonary heart diseases,SNOMED,Multimorbidity_heart failure
+426012001,Right heart failure due to pulmonary hypertension,SNOMED,Multimorbidity_heart failure
+426263006,Congestive heart failure due to left ventricular systolic dysfunction,SNOMED,Multimorbidity_heart failure
+426568003,Open implantation of cardiac ventricular assist device,SNOMED,Multimorbidity_heart failure
+426611007,Congestive heart failure due to valvular disease,SNOMED,Multimorbidity_heart failure
+43736008,Rheumatic left ventricular failure,SNOMED,Multimorbidity_heart failure
+44088000,Low cardiac output syndrome,SNOMED,Multimorbidity_heart failure
+441481004,Chronic systolic heart failure,SNOMED,Multimorbidity_heart failure
+441530006,Chronic diastolic heart failure,SNOMED,Multimorbidity_heart failure
+44313006,Right heart failure secondary to left heart failure,SNOMED,Multimorbidity_heart failure
+443253003,Acute on chronic systolic heart failure,SNOMED,Multimorbidity_heart failure
+443254009,Acute systolic heart failure,SNOMED,Multimorbidity_heart failure
+443343001,Acute diastolic heart failure,SNOMED,Multimorbidity_heart failure
+443344007,Acute on chronic diastolic heart failure,SNOMED,Multimorbidity_heart failure
+445236007,Cardiorenal syndrome,SNOMED,Multimorbidity_heart failure
+446221000,Heart failure with normal ejection fraction,SNOMED,Multimorbidity_heart failure
+45650007,Kyphoscoliotic heart disease,SNOMED,Multimorbidity_heart failure
+46113002,Hypertensive heart failure,SNOMED,Multimorbidity_heart failure
+462172006,Fetal heart failure,SNOMED,Multimorbidity_heart failure
+462174007,Fetal heart failure with myocardial hypertrophy,SNOMED,Multimorbidity_heart failure
+462175008,Fetal heart failure with redistribution of cardiac output,SNOMED,Multimorbidity_heart failure
+46847001,Chronic pulmonary edema,SNOMED,Multimorbidity_heart failure
+471880001,Heart failure due to end stage congenital heart disease,SNOMED,Multimorbidity_heart failure
+473226007,Heart failure medication review,SNOMED,Multimorbidity_heart failure
+48447003,Chronic heart failure,SNOMED,Multimorbidity_heart failure
+49584005,Acute cor pulmonale,SNOMED,Multimorbidity_heart failure
+501871000000106,[D]Cardiorespiratory failure,SNOMED,Multimorbidity_heart failure
+5053004,Cardiac insufficiency due to prosthesis,SNOMED,Multimorbidity_heart failure
+5148006,Hypertensive heart disease with congestive heart failure,SNOMED,Multimorbidity_heart failure
+519531000000108,Cardiorenal syndrome,SNOMED,Multimorbidity_heart failure
+5375005,Chronic left-sided congestive heart failure,SNOMED,Multimorbidity_heart failure
+54529009,Illegal abortion with cardiac arrest AND/OR failure,SNOMED,Multimorbidity_heart failure
+55565007,Cardiac failure after obstetrical surgery AND/OR other procedure including delivery,SNOMED,Multimorbidity_heart failure
+56379006,Abortion with cardiac arrest AND/OR failure,SNOMED,Multimorbidity_heart failure
+56675007,Acute heart failure,SNOMED,Multimorbidity_heart failure
+586171000000108,Transluminal insertion of heart assist system NEC,SNOMED,Multimorbidity_heart failure
+586181000000105,Other specified transluminal heart assist operation,SNOMED,Multimorbidity_heart failure
+588651000000108,Transluminal heart assist operation NOS,SNOMED,Multimorbidity_heart failure
+601601000000109,Acute pulmonary edema unspecified,SNOMED,Multimorbidity_heart failure
+608451000000100,Other chronic pulmonary heart disease NOS,SNOMED,Multimorbidity_heart failure
+60856006,Cardiac insufficiency following cardiac surgery,SNOMED,Multimorbidity_heart failure
+609460008,Induced termination of pregnancy complicated by cardiac arrest and/or failure,SNOMED,Multimorbidity_heart failure
+609507007,Induced termination of pregnancy complicated by cardiac failure,SNOMED,Multimorbidity_heart failure
+609555007,Diastolic heart failure stage A,SNOMED,Multimorbidity_heart failure
+609556008,Systolic heart failure stage A,SNOMED,Multimorbidity_heart failure
+639251000000101,Other heart aid NOS,SNOMED,Multimorbidity_heart failure
+639401000000103,Other chronic pulmonary heart disease,SNOMED,Multimorbidity_heart failure
+64253000,Implantation of heart assist system,SNOMED,Multimorbidity_heart failure
+653021000000102,Acute pulmonary heart disease NOS,SNOMED,Multimorbidity_heart failure
+66989003,Chronic right-sided congestive heart failure,SNOMED,Multimorbidity_heart failure
+67189007,Acute pulmonary heart disease,SNOMED,Multimorbidity_heart failure
+673641000000101,Other pulmonary heart disease,SNOMED,Multimorbidity_heart failure
+67431000119105,Congestive heart failure stage D,SNOMED,Multimorbidity_heart failure
+67441000119101,Congestive heart failure stage C,SNOMED,Multimorbidity_heart failure
+674814021000119106,Acute respiratory distress syndrome due to disease caused by severe acute respiratory syndrome coronavirus 2,SNOMED,Multimorbidity_heart failure
+67782005,Acute respiratory distress syndrome,SNOMED,Multimorbidity_heart failure
+684231000000104,Chronic pulmonary heart disease NOS,SNOMED,Multimorbidity_heart failure
+689201000000109,Pulmonary heart disease NOS,SNOMED,Multimorbidity_heart failure
+698296002,Acute exacerbation of chronic congestive heart failure,SNOMED,Multimorbidity_heart failure
+698594003,Symptomatic congestive heart failure,SNOMED,Multimorbidity_heart failure
+698638005,Pregnancy induced hypertension with pulmonary edema,SNOMED,Multimorbidity_heart failure
+698640000,Hypertension in the puerperium with pulmonary edema,SNOMED,Multimorbidity_heart failure
+700151002,Temporary implantation of left cardiac ventricular assist device,SNOMED,Multimorbidity_heart failure
+700458001,Pulmonary edema due to hypoproteinemia,SNOMED,Multimorbidity_heart failure
+703272007,Heart failure with reduced ejection fraction,SNOMED,Multimorbidity_heart failure
+703273002,Heart failure with reduced ejection fraction due to coronary artery disease,SNOMED,Multimorbidity_heart failure
+703274008,Heart failure with reduced ejection fraction due to myocarditis,SNOMED,Multimorbidity_heart failure
+703275009,Heart failure with reduced ejection fraction due to cardiomyopathy,SNOMED,Multimorbidity_heart failure
+703276005,Heart failure with reduced ejection fraction due to heart valve disease,SNOMED,Multimorbidity_heart failure
+704095000,Referral to heart failure exercise program,SNOMED,Multimorbidity_heart failure
+704242009,Fetal heart failure due to extracardiac disease,SNOMED,Multimorbidity_heart failure
+711461000000104,Heart failure monitoring invitation,SNOMED,Multimorbidity_heart failure
+716621000000101,Heart failure monitoring third letter,SNOMED,Multimorbidity_heart failure
+716971000000109,Heart failure monitoring first letter,SNOMED,Multimorbidity_heart failure
+717191000000108,Heart failure monitoring second letter,SNOMED,Multimorbidity_heart failure
+717501000000108,Heart failure monitoring verbal invitation,SNOMED,Multimorbidity_heart failure
+717531000000102,Heart failure monitoring telephone invitation,SNOMED,Multimorbidity_heart failure
+717840005,Congestive heart failure stage B,SNOMED,Multimorbidity_heart failure
+718287008,Provision of written information about heart failure,SNOMED,Multimorbidity_heart failure
+71892000,Cardiac asthma,SNOMED,Multimorbidity_heart failure
+722095005,Acute kidney injury due to circulatory failure,SNOMED,Multimorbidity_heart failure
+722919003,Neonatal cardiac failure due to decreased left ventricular output,SNOMED,Multimorbidity_heart failure
+724550005,Neonatal cardiac failure due to pulmonary overperfusion,SNOMED,Multimorbidity_heart failure
+72481000119103,Congestive heart failure as early postoperative complication,SNOMED,Multimorbidity_heart failure
+74960003,Acute left-sided congestive heart failure,SNOMED,Multimorbidity_heart failure
+749821000000101,Heart failure with normal ejection fraction,SNOMED,Multimorbidity_heart failure
+757101000000106,Heart failure with normal ejection fraction,SNOMED,Multimorbidity_heart failure
+760361000000100,Fast track heart failure referral for transthoracic two dimensional echocardiogram,SNOMED,Multimorbidity_heart failure
+77737007,Benign hypertensive heart disease with congestive heart failure,SNOMED,Multimorbidity_heart failure
+780771000000106,Fast track heart failure referral for transthoracic two dimensional echocardiogram,SNOMED,Multimorbidity_heart failure
+781051000000108,Has heart failure management plan,SNOMED,Multimorbidity_heart failure
+781061000000106,Has heart failure management plan ,SNOMED,Multimorbidity_heart failure
+78862003,Ayerza's syndrome,SNOMED,Multimorbidity_heart failure
+788950000,Heart failure with mid range ejection fraction,SNOMED,Multimorbidity_heart failure
+79955004,Chronic cor pulmonale,SNOMED,Multimorbidity_heart failure
+80479009,Acute right-sided congestive heart failure,SNOMED,Multimorbidity_heart failure
+810971000000105,Heart failure self-management plan review,SNOMED,Multimorbidity_heart failure
+812001000000102,Heart failure self-management plan agreed,SNOMED,Multimorbidity_heart failure
+812011000000100,Heart failure self-management plan agreed ,SNOMED,Multimorbidity_heart failure
+812311000000102,Hantavirus pulmonary syndrome,SNOMED,Multimorbidity_heart failure
+813991000000101,Education about deteriorating heart failure,SNOMED,Multimorbidity_heart failure
+814001000000106,Education about deteriorating heart failure ,SNOMED,Multimorbidity_heart failure
+82523003,Congestive rheumatic heart failure,SNOMED,Multimorbidity_heart failure
+83105008,Malignant hypertensive heart disease with congestive heart failure,SNOMED,Multimorbidity_heart failure
+832141000000109,Heart failure self-management plan review,SNOMED,Multimorbidity_heart failure
+832441000000100,Hantavirus pulmonary syndrome,SNOMED,Multimorbidity_heart failure
+83291003,Cor pulmonale,SNOMED,Multimorbidity_heart failure
+834611000000108,Chemical-induced pulmonary oedema,SNOMED,Multimorbidity_heart failure
+834741000000101,Right ventricular failure,SNOMED,Multimorbidity_heart failure
+835981000000108,Rehabilitation for heart failure,SNOMED,Multimorbidity_heart failure
+840521002,Acute pulmonary edema caused by fume,SNOMED,Multimorbidity_heart failure
+840522009,Acute pulmonary edema caused by vapor,SNOMED,Multimorbidity_heart failure
+84114007,Heart failure,SNOMED,Multimorbidity_heart failure
+848551000000100,Referral to multidisciplinary heart failure team,SNOMED,Multimorbidity_heart failure
+850021000000103,Provision of written information about heart failure,SNOMED,Multimorbidity_heart failure
+851071000000108,Heart failure initial assessment,SNOMED,Multimorbidity_heart failure
+851521000000102,Heart failure clinical pathway,SNOMED,Multimorbidity_heart failure
+851531000000100,Heart failure clinical pathway ,SNOMED,Multimorbidity_heart failure
+85232009,Left heart failure,SNOMED,Multimorbidity_heart failure
+871617000,Low output heart failure due to and following Fontan operation,SNOMED,Multimorbidity_heart failure
+871681000000102,Heart failure monitoring,SNOMED,Multimorbidity_heart failure
+872361000000105,Discussion about heart failure care plan,SNOMED,Multimorbidity_heart failure
+873881000000100,Referral to rapid access heart failure clinic,SNOMED,Multimorbidity_heart failure
+873891000000103,Referral to rapid access heart failure clinic ,SNOMED,Multimorbidity_heart failure
+87837008,Chronic pulmonary heart disease,SNOMED,Multimorbidity_heart failure
+883031000000100,Temporary implantation of left ventricular assist device,SNOMED,Multimorbidity_heart failure
+88805009,Chronic congestive heart failure,SNOMED,Multimorbidity_heart failure
+89687005,Postimmersion-submersion syndrome,SNOMED,Multimorbidity_heart failure
+89819002,Cardiac insufficiency during AND/OR resulting from a procedure,SNOMED,Multimorbidity_heart failure
+898208007,Heart failure due to thyrotoxicosis,SNOMED,Multimorbidity_heart failure
+90727007,Pleural effusion due to congestive heart failure,SNOMED,Multimorbidity_heart failure
+915571000000102,On optimal heart failure therapy,SNOMED,Multimorbidity_heart failure
+915581000000100,On optimal heart failure therapy ,SNOMED,Multimorbidity_heart failure
+92506005,Biventricular congestive heart failure,SNOMED,Multimorbidity_heart failure
+95437004,Non-cardiogenic pulmonary edema,SNOMED,Multimorbidity_heart failure
+961881000000101,Provision of information about heart failure,SNOMED,Multimorbidity_heart failure
+96311000119109,Exacerbation of congestive heart failure,SNOMED,Multimorbidity_heart failure

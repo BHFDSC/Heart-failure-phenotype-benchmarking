@@ -1,0 +1,8 @@
+code,description,terminology,phenotype_name
+I11.0,Hypertensive heart disease with (congestive) heart failure,ICD 10,Heart failure (NICOR)
+I25.5,Ischaemic cardiomyopathy,ICD 10,Heart failure (NICOR)
+I42.0,Dilated cardiomyopathy,ICD 10,Heart failure (NICOR)
+I42.9,Cardiomyopathy; unspecified,ICD 10,Heart failure (NICOR)
+I50.0,Congestive heart failure,ICD 10,Heart failure (NICOR)
+I50.1,Left ventricular failure,ICD 10,Heart failure (NICOR)
+I50.9,Heart failure; unspecified,ICD 10,Heart failure (NICOR)

@@ -1,0 +1,182 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name
+40201,Malignant hypertensive heart disease with heart failure,ICD9 codes,C3561,10887,Heart failure,PH1645,3380,Heart failure
+40211,Benign hypertensive heart disease with heart failure,ICD9 codes,C3561,10887,Heart failure,PH1645,3380,Heart failure
+40291,Unspecified hypertensive heart disease with heart failure,ICD9 codes,C3561,10887,Heart failure,PH1645,3380,Heart failure
+40401,Malignant hypertensive heart & kidney disease (stage 1-4) with heart failure,ICD9 codes,C3561,10887,Heart failure,PH1645,3380,Heart failure
+40403,Malignant hypertensive heart & kidney disease (stage 5) with heart failure,ICD9 codes,C3561,10887,Heart failure,PH1645,3380,Heart failure
+40411,Benign hypertensive heart & kidney disease (stage 1-4) with heart failure,ICD9 codes,C3561,10887,Heart failure,PH1645,3380,Heart failure
+40413,Benign hypertensive heart & kidney disease (stage 5) with heart failure,ICD9 codes,C3561,10887,Heart failure,PH1645,3380,Heart failure
+40491,Unspecified hypertensive heart  & kidney disease (stage 1-4) with heart failure,ICD9 codes,C3561,10887,Heart failure,PH1645,3380,Heart failure
+40493,Unspecified hypertensive heart  & kidney disease (stage 5) with heart failure,ICD9 codes,C3561,10887,Heart failure,PH1645,3380,Heart failure
+4280,Congestive heart failure,ICD9 codes,C3561,10887,Heart failure,PH1645,3380,Heart failure
+4281,Left heart failure,ICD9 codes,C3561,10887,Heart failure,PH1645,3380,Heart failure
+42820,Systolic heart failure NOS,ICD9 codes,C3561,10887,Heart failure,PH1645,3380,Heart failure
+42821,Acute systolic heart failure,ICD9 codes,C3561,10887,Heart failure,PH1645,3380,Heart failure
+42822,Chronic systolic heart failure,ICD9 codes,C3561,10887,Heart failure,PH1645,3380,Heart failure
+42823,Acute on chronic systolic heart failure,ICD9 codes,C3561,10887,Heart failure,PH1645,3380,Heart failure
+42830,Diastolic heart failure NOS,ICD9 codes,C3561,10887,Heart failure,PH1645,3380,Heart failure
+42831,Acute diastolic heart failure,ICD9 codes,C3561,10887,Heart failure,PH1645,3380,Heart failure
+42832,Chronic diastolic heart failure,ICD9 codes,C3561,10887,Heart failure,PH1645,3380,Heart failure
+42833,Acute on chronic diastolic heart failure,ICD9 codes,C3561,10887,Heart failure,PH1645,3380,Heart failure
+42840,Systolic & diastolic heart failure NOS,ICD9 codes,C3561,10887,Heart failure,PH1645,3380,Heart failure
+42841,Acute systolic & diastolic heart failure,ICD9 codes,C3561,10887,Heart failure,PH1645,3380,Heart failure
+42842,Chronic systolic & diastolic heart failure,ICD9 codes,C3561,10887,Heart failure,PH1645,3380,Heart failure
+42843,Acute on chronic systolic & diastolic heart failure,ICD9 codes,C3561,10887,Heart failure,PH1645,3380,Heart failure
+4289,"Heart failure, unspecified",ICD9 codes,C3561,10887,Heart failure,PH1645,3380,Heart failure
+I110,Hypertensive heart disease with (congestive) heart failure,ICD10 codes,C3562,10888,Heart failure,PH1645,3380,Heart failure
+I130,Hypertensive heart and renal disease with (congestive) heart failure,ICD10 codes,C3562,10888,Heart failure,PH1645,3380,Heart failure
+I132,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,ICD10 codes,C3562,10888,Heart failure,PH1645,3380,Heart failure
+I50,Heart failure,ICD10 codes,C3562,10888,Heart failure,PH1645,3380,Heart failure
+I500,Congestive heart failure,ICD10 codes,C3562,10888,Heart failure,PH1645,3380,Heart failure
+I501,Left ventricular failure,ICD10 codes,C3562,10888,Heart failure,PH1645,3380,Heart failure
+I509,"Heart failure, unspecified",ICD10 codes,C3562,10888,Heart failure,PH1645,3380,Heart failure
+14A6.,H/O: heart failure,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+14AM.,H/O: Heart failure in last year,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+1O1..,Heart failure confirmed,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+2JZ..,On optimal heart failure therapy,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+388D.,New York Heart Association classification of heart failure symptoms,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+661M5,Heart failure self-management plan agreed,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+661N5,Heart failure self-management plan review,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+662p.,Heart failure 6 month review,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+662T.,Congestive heart failure monitoring,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+662W.,Heart failure annual review,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+679W1,Education about deteriorating heart failure,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+679X.,Heart failure education,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+67D4.,Heart failure information given to patient,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+8CeC.,Preferred place of care for next exacerbation of heart failure,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+8CL3.,Heart failure care plan discussed with patient,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+8CMK.,Has heart failure management plan,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+8CMW8,Heart failure clinical pathway,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+8H2S.,Admit heart failure emergency,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+8HBE.,Heart failure follow-up,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+8HHb.,Referral to heart failure nurse,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+8HHz.,Referral to heart failure exercise programme,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+8Hk0.,Referred to heart failure education group,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+8IE0.,Referral to heart failure education group declined,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+8IE1.,Referral to heart failure exercise programme declined,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+9N2p.,Seen by community heart failure nurse,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+9N6T.,Referred by heart failure nurse specialist,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+9Or..,Heart failure monitoring administration,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+9Or0.,Heart failure review completed,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+9Or1.,Heart failure monitoring telephone invite,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+9Or2.,Heart failure monitoring verbal invite,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+9Or3.,Heart failure monitoring first letter,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+9Or4.,Heart failure monitoring second letter,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+9Or5.,Heart failure monitoring third letter,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+G1yz1,Rheumatic left ventricular failure,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+G232.,Hypertensive heart and renal disease with (congestive) heart failure,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+G234.,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+G58..,Heart failure,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+G580.,Congestive heart failure,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+G5800,Acute congestive heart failure,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+G5801,Chronic congestive heart failure,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+G5804,Congestive heart failure due to valvular disease,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+G581.,Left ventricular failure,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+G5810,Acute left ventricular failure,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+G582.,Acute heart failure,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+G583.,Heart failure with normal ejection fraction,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+G584.,Right ventricular failure,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+G58z.,Heart failure NOS,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+G5y4z,Post cardiac operation heart failure NOS,Read codes v2,C3563,10889,Heart failure,PH1645,3380,Heart failure
+Y20Bq,Heart failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Y20Bs,Heart failure as a complication of care,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Y20Bv,Post cardiac operation heart failure NOS,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Y20Bw,Heart failure NOS,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Y20By,Right ventricular failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Y20Bz,RVF - Right ventricular failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Y20C0,Right heart failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Y20C1,RHF - Right heart failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Y20C2,Left ventricular failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Y20C4,LVF - Left ventricular failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Y20C5,Biventricular failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Y20C6,Congestive heart failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Y20C7,CHF - Congestive heart failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Y20D3,Rheumatic left ventricular failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Ya04n,H/O: heart failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Ya1gw,Sepsis-associated left ventricular failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Ya1gx,Sepsis-associated right ventricular failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Ya3Ha,Acute congestive heart failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Ya3Hb,Chronic congestive heart failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Yabcn,H/O:Heart failure in last year,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YabP2,H/O: Heart failure in last year,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YafEZ,Refractory heart failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Yakgm,Congestive heart failure monitoring,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Yakgv,Congestive heart failure monit,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Yakk0,New York Heart Association classification of heart failure symptoms,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YakrL,Heart failure follow-up,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YakrM,Heart failure annual review,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YalSS,Heart failure confirmed,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Yandx,Admit heart failure emergency,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Yandy,Referral to heart failure nurse,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Yandz,Referral to heart failure nurs,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Yane4,Seen by community heart failure nurse,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YaoGZ,Referred by heart failure nurse specialist,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YaoS5,Heart failure information given to patient,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YaoS6,Heart failure info given to pt,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YaoS7,Referral to heart failure exercise programme,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YaoSI,Heart failure monitoring administration,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YaoSJ,Heart failure monitoring admin,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YaoSK,Heart failure review completed,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YaoSM,Heart failure care plan discussed with patient,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YaovL,Heart failure 6 month review,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YaoY4,Referred to heart failure education group,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YapQ2,Heart failure monitoring telephone invite,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YapRa,Heart failure monitoring first letter,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YapRc,Heart failure monitoring second letter,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YapRd,Heart failure monit 2nd letter,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YapRe,Heart failure monitoring third letter,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YapRV,Heart failure monitoring verbal invite,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YaqtX,Congestive heart failure due to valvular disease,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YaQvG,HF - Heart failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YaqWc,Heart failure education,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YatBi,Heart failure self management plan,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Yatsi,Heart failure with normal ejection fraction,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YatxI,HFNEF - heart failure with normal ejection fraction,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Yau8E,Referral to heart failure education group declined,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YaudC,Preferred place of care for next exacerbation of heart failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YauR9,Referral to heart failure exercise programme declined,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YautY,Heart failure self-management plan review,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YauUR,Has heart failure management plan,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Yauv2,Heart failure self-management plan agreed,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Yauyl,Education about deteriorating heart failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Yaviz,Heart failure clinical pathway,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YavpN,Heart failure with preserved ejection fraction,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YavQI,Rehabilitation for heart failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Yax9d,On optimal heart failure therapy,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YaYAU,Acute left ventricular failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YaYAV,Acute heart failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+Yaz0A,Heart failure with reduced ejection fraction,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YE0R5,Heart failure: [right] or [congestive],Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YE0S3,(Congestive cardiac failure) or (dropsy) or (cardiac insufficiency) or (right heart failure) or (right ventricular failure),Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YE1OF,[Cardiac insufficiency] or [heart failure] as a complication of care,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YMAkW,Hypertensive heart and renal disease with (congestive) heart failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YMAkY,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+YMH3d,Left heart failure,Read codes v3,C3564,10890,Heart failure,PH1645,3380,Heart failure
+1076,20002 - HF/pulmonary oedema,UKBioBank codes,C3565,10891,Heart failure,PH1645,3380,Heart failure
+K01,Transplantation of heart and lung,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K011,Allotransplantation of heart and lung,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K012,Revision of transplantation of heart and lung,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K018,Other specified transplantation of heart and lung,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K019,Unspecified transplantation of heart and lung,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K02,Other transplantation of heart,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K021,Allotransplantation of heart NEC,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K022,Xenotransplantation of heart,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K023,Implantation of prosthetic heart,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K024,Piggyback transplantation of heart,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K025,Revision of implantation of prosthetic heart,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K026,Revision of transplantation of heart NEC,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K028,Other specified other transplantation of heart,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K029,Unspecified other transplantation of heart,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K541,Open implantation of ventricular assist device,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K542,Open removal of ventricular assist device,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K548,Other specified open heart assist operations,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K549,Unspecified open heart assist operations,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K562,Transluminal insertion of heart assist system NEC,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K563,Transluminal maintenance of heart assist system,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K564,Transluminal removal of heart assist system,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K568,Other specified transluminal heart assist operations,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K569,Unspecified transluminal heart assist operations,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K607,Implantation of intravenous biventricular cardiac pacemaker system,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K617,Implantation of biventricular cardiac pacemaker system,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K733,Renewal of intravenous biventricular cardiac pacemaker,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure
+K743,Renewal of biventricular cardiac pacemaker NEC,OPCS4 codes,C3566,10873,Heart failure,PH1645,3380,Heart failure

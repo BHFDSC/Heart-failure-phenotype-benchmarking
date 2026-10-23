@@ -1,0 +1,46 @@
+phenotype_name,terminology,code,term,date
+HF (pheno_30),ICD10,I50,Heart failure,
+HF (pheno_30),ICD10,I11.0,Hypertensive heart disease with (congestive) heart failure,
+HF (pheno_30),ICD10,I13.0,Hypertensive heart and renal disease with (congestive) heart failure,
+HF (pheno_30),ICD10,I13.2,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,
+HF (pheno_30),SNOMED,10335000,Chronic right-sided heart failure (disorder),20210127
+HF (pheno_30),SNOMED,10633002,Acute congestive heart failure,20210127
+HF (pheno_30),SNOMED,42343007,Congestive heart failure,20210127
+HF (pheno_30),SNOMED,43736008,Rheumatic left ventricular failure,20210127
+HF (pheno_30),SNOMED,48447003,Chronic heart failure (disorder),20210127
+HF (pheno_30),SNOMED,56675007,Acute heart failure,20210127
+HF (pheno_30),SNOMED,71892000,Cardiac asthma,20210127
+HF (pheno_30),SNOMED,79955004,Chronic cor pulmonale,20210127
+HF (pheno_30),SNOMED,83105008,Malignant hypertensive heart disease with congestive heart failure,20210127
+HF (pheno_30),SNOMED,84114007,Heart failure,20210127
+HF (pheno_30),SNOMED,85232009,Left heart failure,20210127
+HF (pheno_30),SNOMED,87837008,Chronic pulmonary heart disease,20210127
+HF (pheno_30),SNOMED,88805009,Chronic congestive heart failure,20210127
+HF (pheno_30),SNOMED,92506005,Biventricular congestive heart failure,20210127
+HF (pheno_30),SNOMED,128404006,Right heart failure,20210127
+HF (pheno_30),SNOMED,134401001,Left ventricular systolic dysfunction,20210127
+HF (pheno_30),SNOMED,134440006,Referral to heart failure clinic,20210127
+HF (pheno_30),SNOMED,194767001,Benign hypertensive heart disease with congestive cardiac failure,20210127
+HF (pheno_30),SNOMED,194779001,Hypertensive heart and renal disease with (congestive) heart failure,20210127
+HF (pheno_30),SNOMED,194781004,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,20210127
+HF (pheno_30),SNOMED,195111005,Decompensated cardiac failure,20210127
+HF (pheno_30),SNOMED,195112003,Compensated cardiac failure,20210127
+HF (pheno_30),SNOMED,195114002,Acute left ventricular failure,20210127
+HF (pheno_30),SNOMED,206586007,Congenital cardiac failure,20210127
+HF (pheno_30),SNOMED,233924009,Heart failure as a complication of care (disorder),20210127
+HF (pheno_30),SNOMED,275514001,Impaired left ventricular function,20210127
+HF (pheno_30),SNOMED,314206003,Refractory heart failure (disorder),20210127
+HF (pheno_30),SNOMED,367363000,Right ventricular failure,20210127
+HF (pheno_30),SNOMED,407596008,Echocardiogram shows left ventricular systolic dysfunction (finding),20210127
+HF (pheno_30),SNOMED,420300004,New York Heart Association Classification - Class I (finding),20210127
+HF (pheno_30),SNOMED,420913000,New York Heart Association Classification - Class III (finding),20210127
+HF (pheno_30),SNOMED,421704003,New York Heart Association Classification - Class II (finding),20210127
+HF (pheno_30),SNOMED,422293003,New York Heart Association Classification - Class IV (finding),20210127
+HF (pheno_30),SNOMED,426263006,Congestive heart failure due to left ventricular systolic dysfunction (disorder),20210127
+HF (pheno_30),SNOMED,426611007,Congestive heart failure due to valvular disease (disorder),20210127
+HF (pheno_30),SNOMED,430396006,Chronic systolic dysfunction of left ventricle (disorder),20210127
+HF (pheno_30),SNOMED,446221000,Heart failure with normal ejection fraction (disorder),20210127
+HF (pheno_30),SNOMED,698592004,Asymptomatic left ventricular systolic dysfunction (disorder),20210127
+HF (pheno_30),SNOMED,703272007,Heart failure with reduced ejection fraction (disorder),20210127
+HF (pheno_30),SNOMED,717491000000102,Excepted from heart failure quality indicators - informed dissent (finding),20210127
+HF (pheno_30),SNOMED,760361000000100,Fast track heart failure referral for transthoracic two dimensional echocardiogram,20210127
